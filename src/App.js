@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="bg-gray-800 text-white p-4">
-        <h1 className="text-3xl">Welcome to My Portfolio</h1>
+        <h1 className="text-3xl">Welcome to My Portfolio </h1>
         <nav>
           <ul className="flex space-x-4">
             <li><a href="#about" className="hover:underline">About Me</a></li>
