@@ -1,0 +1,7 @@
+1. Push the branch with your code to your GitHub repository if you haven't already.
+2. Go to the [Vercel website](https://vercel.com/) and log in or sign up if you don't have an account.
+3. Click on "New Project" and select "Import Git Repository."
+4. Choose your GitHub repository from the list.
+5. When configuring the deployment settings, select the specific branch you want to deploy.
+6. Click "Deploy."
+7. Wait for the deployment process to complete. Your app will be live on a Vercel URL.
